@@ -1,7 +1,16 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
-#EXTINF:10, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-https://epiconvh.s.llnwi.net/showbox/master.m3u8
-#EXTINF:10, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-PLAYLIST-TYPE:VOD
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="5.1",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="eng",URI="https://epiconvh.s.llnwi.net/showbox/audio_eng.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=60.0,AUDIO="5.1",CODECS="avc1.640028,ec-3.1.1,mp4a.40.5"
+https://epiconvh.s.llnwi.net/showbox/720p.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=854x480,FRAME-RATE=60.0,AUDIO="5.1",CODECS="avc1.640028,ec-3.1.1,mp4a.40.5"
+https://epiconvh.s.llnwi.net/showbox/480p.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,FRAME-RATE=30.0,AUDIO="5.1",CODECS="avc1.640028,ec-3.1.1,mp4a.40.5"
+https://epiconvh.s.llnwi.net/showbox/360p.m3u8
+
