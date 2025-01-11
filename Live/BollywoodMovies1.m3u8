@@ -1,5 +1,11 @@
 #EXTM3U
+#EXT-X-TARGETDURATION:4
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=60.000
+#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
-out1.ts
+#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
