@@ -1,63 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Red Light Interface</title>
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome Interface</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="light-container">
-    <div class="light red"></div>
-    <div class="light yellow"></div>
-    <div class="light green"></div>
-  </div>
+    <div class="welcome-container">
+        <h1>Welcome to Our Website!</h1>
+        <p>We're glad to have you here. Enjoy exploring!</p>
+        <button onclick="startExploring()">Start Exploring</button>
+    </div>
+
+    <script>
+        function startExploring() {
+            alert("Let's begin your journey!");
+        }
+    </script>
 </body>
 </html>
-* {
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-  }
-  
-  body {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #333;
-  }
-  
-  .light-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    width: 80px;
-    height: 240px;
-    background-color: #222;
-    padding: 10px;
-    border-radius: 15px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-  }
-  
-  .light {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    background-color: #444;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
-  }
-  
-  .light.red {
-    background-color: #ff0000;
-  }
-  
-  .light.yellow {
-    background-color: #ffcc00;
-  }
-  
-  .light.green {
-    background-color: #00ff00;
-  }
-  
+}
+
+.welcome-container {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #2c3e50;
+    font-size: 36px;
+}
+
+p {
+    color: #7f8c8d;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+button {
+    background-color: #3498db;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
