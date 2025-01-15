@@ -4,10 +4,10 @@
 #EXT-X-TARGETDURATION:11
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:10.144000,
-http://103.120.172.74:4600
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:10.000000,
-http://103.120.172.74:4600
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:10.144000,
-http://103.120.172.74:4600
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:10.000000,
-http://103.120.172.74:4600
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
