@@ -2,6 +2,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
 #EXTINF:10,
-http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI&type/18456.ts
+http://xtv.ooo:8080/live/Irfan99383/8888/317809.ts
 #EXTINF:10,
-http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI&type/18456.ts
+http://xtv.ooo:8080/live/Irfan99383/8888/317809.ts
