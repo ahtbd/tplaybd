@@ -1,11 +1,30 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:4
 #EXT-X-VERSION:3
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://103.84.57.155:8000/play/a0c8
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://103.120.172.74:1150
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://103.120.172.74:1150
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://103.120.172.74:1150
+#EXT-X-MEDIA-SEQUENCE:500588
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.600,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.600,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.600,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.600,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.599,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.600,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.600,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.600,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.600,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.600,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.600,
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1411.ts
+#EXTINF:3.600,
+http://private.clientline.club/y4PtQus4wxM3/GmTqd1BV4h/321465?play_token=R7nXHDa8ip
+#EXTINF:3.600,
+http://private.clientline.club/y4PtQus4wxM3/GmTqd1BV4h/321465?play_token=R7nXHDa8ip
