@@ -1,11 +1,18 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:4
 #EXT-X-VERSION:3
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://tv.cloudcdn.me/live.ts?channelId=28128&uid=9603&deviceMac=00:1A:79:AB:DF:8C
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://tv.cloudcdn.me/live.ts?channelId=28128&uid=9603&deviceMac=00:1A:79:AB:DF:8C
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://tv.cloudcdn.me/live.ts?channelId=28128&uid=9603&deviceMac=00:1A:79:AB:DF:8C
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://tv.cloudcdn.me/live.ts?channelId=28128&uid=9603&deviceMac=00:1A:79:AB:DF:8C
+#EXT-X-MEDIA-SEQUENCE:500588
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.600,
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104673&extension=ts&play_token=3oPMK3edX2&sn2=
+#EXTINF:3.600,
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104673&extension=ts&play_token=3oPMK3edX2&sn2=
+#EXTINF:3.600,
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104673&extension=ts&play_token=3oPMK3edX2&sn2=
+#EXTINF:3.600,
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104673&extension=ts&play_token=3oPMK3edX2&sn2=
+#EXTINF:3.599,
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104673&extension=ts&play_token=3oPMK3edX2&sn2=
+#EXTINF:3.600,
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104673&extension=ts&play_token=3oPMK3edX2&sn2=
+#EXTINF:3.600,
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104673&extension=ts&play_token=3oPMK3edX2&sn2=
