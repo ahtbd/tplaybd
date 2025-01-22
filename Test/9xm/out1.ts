@@ -2,6 +2,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
 #EXTINF:10,
-http://watchindia.net:8880/live/49387/51659/827.ts
+http://xtv.ooo:8080/live/Irfan99383/8888/341039.ts
 #EXTINF:10,
-http://watchindia.net:8880/live/49387/51659/827.ts
+http://xtv.ooo:8080/live/Irfan99383/8888/341039.ts
