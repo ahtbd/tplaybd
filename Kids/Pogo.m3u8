@@ -1,17 +1,14 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:4
 #EXT-X-VERSION:3
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://suprino.xyz//PMF3J9X/BV7HG8H/117790
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://suprino.xyz//PMF3J9X/BV7HG8H/117790
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://suprino.xyz//PMF3J9X/BV7HG8H/117790
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://suprino.xyz//PMF3J9X/BV7HG8H/117790
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://suprino.xyz//PMF3J9X/BV7HG8H/117790
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://suprino.xyz//PMF3J9X/BV7HG8H/117790
-#EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://suprino.xyz//PMF3J9X/BV7HG8H/117790
+#EXT-X-MEDIA-SEQUENCE:500588
+#EXT-X-TARGETDURATION:11
+#EXTINF:3.600,
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=156128&extension=ts&play_token=U71gOhaI4v
+#EXTINF:3.600,
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=156128&extension=ts&play_token=U71gOhaI4v
+#EXTINF:3.600,
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=156128&extension=ts&play_token=U71gOhaI4v
+#EXTINF:3.600,
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=156128&extension=ts&play_token=U71gOhaI4v
+#EXTINF:3.599,
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=156128&extension=ts&play_token=U71gOhaI4v
