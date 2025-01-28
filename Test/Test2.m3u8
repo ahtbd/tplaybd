@@ -3,11 +3,9 @@
 #EXT-X-MEDIA-SEQUENCE:3969080
 #EXT-X-TARGETDURATION:11
 #EXT-X-I-FRAMES-ONLY
-#EXTINF:10.144000,
-https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.ts?aid=.A32.7bbT56vyHM9fKZk.OPo84YSG6iwgnxTdxN1veNxhuOfSm1bjyY0x97N_sqk0HF1XVogHnIux-idvUh11NKrkdsM7a--PObnK02WCUH7mn17bX7NRHm84-_FwCtOx1ICeJ4ih-LQWnv7AjvK6
-#EXTINF:10.000000,
-https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.ts?aid=.A32.7bbT56vyHM9fKZk.OPo84YSG6iwgnxTdxN1veNxhuOfSm1bjyY0x97N_sqk0HF1XVogHnIux-idvUh11NKrkdsM7a--PObnK02WCUH7mn17bX7NRHm84-_FwCtOx1ICeJ4ih-LQWnv7AjvK6
-#EXTINF:10.144000,
-https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.ts?aid=.A32.7bbT56vyHM9fKZk.OPo84YSG6iwgnxTdxN1veNxhuOfSm1bjyY0x97N_sqk0HF1XVogHnIux-idvUh11NKrkdsM7a--PObnK02WCUH7mn17bX7NRHm84-_FwCtOx1ICeJ4ih-LQWnv7AjvK6
-#EXTINF:10.000000,
-https://live-global-cdn-v02.sooplive.co.kr/live-stmc-24/auth_master_playlist.ts?aid=.A32.7bbT56vyHM9fKZk.OPo84YSG6iwgnxTdxN1veNxhuOfSm1bjyY0x97N_sqk0HF1XVogHnIux-idvUh11NKrkdsM7a--PObnK02WCUH7mn17bX7NRHm84-_FwCtOx1ICeJ4ih-LQWnv7AjvK6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-pictures/drmLicense
+https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd

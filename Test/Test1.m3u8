@@ -1,13 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:3969080
-#EXT-X-TARGETDURATION:11
-#EXT-X-I-FRAMES-ONLY
-#EXTINF:10.144000,
-https://play.afreecatv.com/tplaybd/embed
-#EXTINF:10.000000,
-https://play.afreecatv.com/tplaybd/embed
-#EXTINF:10.144000,
-https://play.afreecatv.com/tplaybd/embed
-#EXTINF:10.000000,
-https://play.afreecatv.com/tplaybd/embed
+#EXTINF:-1 tvg-id="-pictures" tvg-name="& Pictures (And Pictures)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" tvg-chno="-pictures" group-title="Movies",& Pictures (And Pictures)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-pictures/drmLicense
+https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
