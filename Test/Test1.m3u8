@@ -2,10 +2,10 @@
 #EXT-X-TARGETDURATION:4
 #EXT-X-VERSION:3
 #EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641.ts
 #EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641.ts
 #EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.ts
 #EXTINF:4, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.ts
