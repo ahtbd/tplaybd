@@ -4,10 +4,10 @@
 #EXT-X-TARGETDURATION:11
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:10.144000,
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4ZkkwUOd394X4Eo0NuwHGc/ts
 #EXTINF:10.000000,
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4ZkkwUOd394X4Eo0NuwHGc/ts
 #EXTINF:10.144000,
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4ZkkwUOd394X4Eo0NuwHGc/ts
 #EXTINF:10.000000,
-#http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4ZkkwUOd394X4Eo0NuwHGc/ts
