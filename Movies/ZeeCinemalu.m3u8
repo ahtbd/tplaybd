@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:500588
+#EXT-X-TARGETDURATION:11
+#EXTINF:3.600,
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=155872&extension=ts&play_token=U71gOhaI4v
+#EXTINF:3.600,
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=155872&extension=ts&play_token=U71gOhaI4v
+#EXTINF:3.600,
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=155872&extension=ts&play_token=U71gOhaI4v
+#EXTINF:3.600,
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=155872&extension=ts&play_token=U71gOhaI4v
+#EXTINF:3.599,
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:D5:6C:83&stream=155872&extension=ts&play_token=U71gOhaI4v
