@@ -4,10 +4,10 @@
 #EXT-X-TARGETDURATION:11
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:10.144000,
-http://119.152.240.15:8001/play/a0ij
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:B5:AD:1A&stream=281089&extension=ts
 #EXTINF:10.000000,
-http://119.152.240.15:8001/play/a0ij
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:B5:AD:1A&stream=281089&extension=ts
 #EXTINF:10.144000,
-http://119.152.240.15:8001/play/a0ij
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:B5:AD:1A&stream=281089&extension=ts
 #EXTINF:10.000000,
-http://119.152.240.15:8001/play/a0ij
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:B5:AD:1A&stream=281089&extension=ts
