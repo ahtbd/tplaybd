@@ -2,6 +2,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
 #EXTINF:10, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://tv.cloudcdn.me:80/live.ts?channelId=89823&uid=3623&deviceMac=00:1A:79:D7:C5:49
+http://tv.cloudcdn.me:80/live.ts?channelId=89823&uid=3623&deviceMac=00:1A:79:50:3A:D4
 #EXTINF:10, BANDWIDTH=3000000, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-http://tv.cloudcdn.me:80/live.ts?channelId=89823&uid=3623&deviceMac=00:1A:79:D7:C5:49
+http://tv.cloudcdn.me:80/live.ts?channelId=89823&uid=3623&deviceMac=00:1A:79:50:3A:D4
