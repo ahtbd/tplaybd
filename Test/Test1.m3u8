@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://opplex.ch:8080/live/mother/mother/76722
+http://opplex.ch:8080/live/mother/mother/76722.ts
